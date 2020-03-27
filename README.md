@@ -5,7 +5,7 @@ Github Repository: https://github.com/IgnacioOQ/Developing-Data-Products
 
 Shiny Application: https://ignacio-ojea.shinyapps.io/Final-Project/
 
-Ioslide Presentation: http://rpubs.com/xavifu/265156
+Ioslide Presentation: https://rpubs.com/IgnacioOQ/Developing-Data-Products-Final-Assignment
 
 ## Description
 
